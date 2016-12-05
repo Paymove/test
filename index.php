@@ -1,12 +1,3 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: p.ragozzino
- * Date: 03/06/2016
- * Time: 11:08
- */
-
-?>
 
 <body>
 <div style="text-align: center">
